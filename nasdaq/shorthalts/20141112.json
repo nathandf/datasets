@@ -1,0 +1,686 @@
+[
+    {
+        "Symbol": "SHLDZ",
+        "Security Name": "Sears Holdings Corporation Rt",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "CBSTZ",
+        "Security Name": "Cubist Pharmctcls CVR",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "HEAR",
+        "Security Name": "Turtle Beach Corp Cmn stk",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "ECTE",
+        "Security Name": "ECHO THERAPEUTICS",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "ARTX",
+        "Security Name": "Arotech Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "ERII",
+        "Security Name": "Energy Recovery, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "AAOI",
+        "Security Name": "Applied Optoelectronics Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "JASNW",
+        "Security Name": "Jason Industries, Inc. Warrant",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:30:01 AM"
+    },
+    {
+        "Symbol": "OTIV",
+        "Security Name": "On Track Innovations Ordinary",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:02 AM"
+    },
+    {
+        "Symbol": "ARCW",
+        "Security Name": "ARC Group Worldwide, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:30:07 AM"
+    },
+    {
+        "Symbol": "UNIS",
+        "Security Name": "Unilife Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:25 AM"
+    },
+    {
+        "Symbol": "HALO",
+        "Security Name": "Halozyme Therapeutics Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:30:30 AM"
+    },
+    {
+        "Symbol": "HIIQ",
+        "Security Name": "Health Insurance Innovations,",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:31:10 AM"
+    },
+    {
+        "Symbol": "ASEI",
+        "Security Name": "American Science & Engineering",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:31:30 AM"
+    },
+    {
+        "Symbol": "CALL",
+        "Security Name": "magicJack VocalTec Ltd",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:32:30 AM"
+    },
+    {
+        "Symbol": "PKOH",
+        "Security Name": "Park-Ohio Hldgs Corp",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:32:39 AM"
+    },
+    {
+        "Symbol": "HNSN",
+        "Security Name": "Hansen Medical, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:32:46 AM"
+    },
+    {
+        "Symbol": "FNJN",
+        "Security Name": "Finjan Holdings, Inc. Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:34:21 AM"
+    },
+    {
+        "Symbol": "CLUB",
+        "Security Name": "Town Sports International Hold",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:36:38 AM"
+    },
+    {
+        "Symbol": "QADB",
+        "Security Name": "QAD Inc Class B",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:36:53 AM"
+    },
+    {
+        "Symbol": "RDHL",
+        "Security Name": "Redhill Biopharma ADR",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:36:57 AM"
+    },
+    {
+        "Symbol": "CACQ",
+        "Security Name": "Caesars Acquisition Company",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:37:22 AM"
+    },
+    {
+        "Symbol": "CBDE",
+        "Security Name": "CBD Energy Ltd Ord Shs",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:37:44 AM"
+    },
+    {
+        "Symbol": "URRE",
+        "Security Name": "URANIUM RESOURCES",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:40:14 AM"
+    },
+    {
+        "Symbol": "CMLS",
+        "Security Name": "Cumulus Media Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 9:45:02 AM"
+    },
+    {
+        "Symbol": "PRKR",
+        "Security Name": "ParkerVision Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:47:01 AM"
+    },
+    {
+        "Symbol": "VPCO",
+        "Security Name": "Vapor Corp. Common Stock",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:50:53 AM"
+    },
+    {
+        "Symbol": "RCON",
+        "Security Name": "Recon Technology, Ltd.",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 9:56:33 AM"
+    },
+    {
+        "Symbol": "WHLRW",
+        "Security Name": "Wheeler REIT Warrants",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 10:01:48 AM"
+    },
+    {
+        "Symbol": "SAEX",
+        "Security Name": "SAEXPLORATION HLDGS",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 10:03:22 AM"
+    },
+    {
+        "Symbol": "ACTS",
+        "Security Name": "Actions Semiconductor Co Ltd",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 10:03:48 AM"
+    },
+    {
+        "Symbol": "CALI",
+        "Security Name": "China Auto Logistics Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 10:04:38 AM"
+    },
+    {
+        "Symbol": "ASCMA",
+        "Security Name": "Ascent Capital Group A",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 10:05:02 AM"
+    },
+    {
+        "Symbol": "TIGR",
+        "Security Name": "TigerLogic Corporation",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 10:05:47 AM"
+    },
+    {
+        "Symbol": "PLNR",
+        "Security Name": "Planar Systems Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 10:06:35 AM"
+    },
+    {
+        "Symbol": "SNSS",
+        "Security Name": "Sunesis Pharmaceuticals Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 10:06:50 AM"
+    },
+    {
+        "Symbol": "ESMC",
+        "Security Name": "Escalon Medical Corp",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 10:19:38 AM"
+    },
+    {
+        "Symbol": "ROIAK",
+        "Security Name": "Radio One Inc Cl D",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 10:27:29 AM"
+    },
+    {
+        "Symbol": "WTSL",
+        "Security Name": "The Wet Seal Inc Cl A",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 10:36:23 AM"
+    },
+    {
+        "Symbol": "OFLX",
+        "Security Name": "Omega Flex Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 10:50:30 AM"
+    },
+    {
+        "Symbol": "OXBRW",
+        "Security Name": "Oxbridge Re Hldgs Ltd Warrants",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 10:50:54 AM"
+    },
+    {
+        "Symbol": "SYUT",
+        "Security Name": "Synutra International, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 11:09:00 AM"
+    },
+    {
+        "Symbol": "VRNGW",
+        "Security Name": "Vringo, Inc. Warrants",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 11:30:00 AM"
+    },
+    {
+        "Symbol": "TRIV",
+        "Security Name": "TriVascular Tech Inc. Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 11:38:08 AM"
+    },
+    {
+        "Symbol": "BAXS",
+        "Security Name": "Baxano Surgical, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 11:43:24 AM"
+    },
+    {
+        "Symbol": "SAGE",
+        "Security Name": "Sage Therapeutics Common",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 11:56:22 AM"
+    },
+    {
+        "Symbol": "DNDN",
+        "Security Name": "Dendreon Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 11:56:37 AM"
+    },
+    {
+        "Symbol": "EVRY",
+        "Security Name": "EveryWare Global, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 11:58:37 AM"
+    },
+    {
+        "Symbol": "SLTC",
+        "Security Name": "Selectica Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 12:07:10 PM"
+    },
+    {
+        "Symbol": "KONE",
+        "Security Name": "Kingtone Wirelessinfo Solution",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 12:11:51 PM"
+    },
+    {
+        "Symbol": "CNYD",
+        "Security Name": "CHINA YIDA HOLDING, CO",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 12:32:00 PM"
+    },
+    {
+        "Symbol": "MEILW",
+        "Security Name": "Methes Energies Cl A Warrant",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 12:57:54 PM"
+    },
+    {
+        "Symbol": "ICLDW",
+        "Security Name": "InterCloud Systems Wrnt",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 12:59:54 PM"
+    },
+    {
+        "Symbol": "RGSE",
+        "Security Name": "Real Goods Solar, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 1:59:11 PM"
+    },
+    {
+        "Symbol": "RDUS",
+        "Security Name": "Radius Health, Inc. Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "11\/11\/2014 2:01:08 PM"
+    },
+    {
+        "Symbol": "CHNR",
+        "Security Name": "China Natural Resources, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 2:53:39 PM"
+    },
+    {
+        "Symbol": "CLRBW",
+        "Security Name": "Cellectar Biosciences Wts",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 2:58:33 PM"
+    },
+    {
+        "Symbol": "EGT",
+        "Security Name": "Entertainment Gaming Asia",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 3:13:37 PM"
+    },
+    {
+        "Symbol": "CPXX",
+        "Security Name": "Celator Pharmaceuticals Cmn",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 3:22:27 PM"
+    },
+    {
+        "Symbol": "ESSX",
+        "Security Name": "Essex Rental Cp Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 3:52:30 PM"
+    },
+    {
+        "Symbol": "SWSH",
+        "Security Name": "Swisher Hygiene, Inc. Cmn",
+        "Market Category": "R",
+        "Trigger Time": "11\/11\/2014 3:55:40 PM"
+    },
+    {
+        "Symbol": "PLUG",
+        "Security Name": "Plug Power Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "KMDA",
+        "Security Name": "Kamada Ltd.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "ASPS",
+        "Security Name": "Altisource Portfolio Solutions",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:30:00 AM"
+    },
+    {
+        "Symbol": "PRTA",
+        "Security Name": "Prothena Corporation plc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:30:55 AM"
+    },
+    {
+        "Symbol": "ISSI",
+        "Security Name": "Integrated Silicon Solution",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:31:20 AM"
+    },
+    {
+        "Symbol": "ECTE",
+        "Security Name": "ECHO THERAPEUTICS",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 9:33:36 AM"
+    },
+    {
+        "Symbol": "EGT",
+        "Security Name": "Entertainment Gaming Asia",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 9:34:34 AM"
+    },
+    {
+        "Symbol": "EDMC",
+        "Security Name": "Education Management Corporati",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:34:48 AM"
+    },
+    {
+        "Symbol": "LTRPB",
+        "Security Name": "Liberty TripAdvisor Hldgs B Cm",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:36:33 AM"
+    },
+    {
+        "Symbol": "OXGN",
+        "Security Name": "OXIGENE INC",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 9:36:42 AM"
+    },
+    {
+        "Symbol": "ROIAK",
+        "Security Name": "Radio One Inc Cl D",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 9:37:15 AM"
+    },
+    {
+        "Symbol": "NYMX",
+        "Security Name": "Nymox Pharmaceutical Corp",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 9:37:26 AM"
+    },
+    {
+        "Symbol": "STKL",
+        "Security Name": "SunOpta, Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:37:43 AM"
+    },
+    {
+        "Symbol": "CBDE",
+        "Security Name": "CBD Energy Ltd Ord Shs",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 9:38:10 AM"
+    },
+    {
+        "Symbol": "ROIA",
+        "Security Name": "Radio One Inc Cl A",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 9:38:47 AM"
+    },
+    {
+        "Symbol": "SBLKL",
+        "Security Name": "StarBulk 8% Senior Nts 2019",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:44:27 AM"
+    },
+    {
+        "Symbol": "CYHHZ",
+        "Security Name": "Community Health Systems, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:45:59 AM"
+    },
+    {
+        "Symbol": "QTNTW",
+        "Security Name": "Quotient Limited Warrants",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 9:46:31 AM"
+    },
+    {
+        "Symbol": "WATT",
+        "Security Name": "Energous Corporation Cmn",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 10:01:50 AM"
+    },
+    {
+        "Symbol": "INPH",
+        "Security Name": "Interphase Corporation",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 10:05:04 AM"
+    },
+    {
+        "Symbol": "SINO",
+        "Security Name": "Sino-Global Shipping America,",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 10:06:43 AM"
+    },
+    {
+        "Symbol": "CACH",
+        "Security Name": "Cache Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 10:07:32 AM"
+    },
+    {
+        "Symbol": "LTBR",
+        "Security Name": "Lightbridge Corp Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 10:14:08 AM"
+    },
+    {
+        "Symbol": "CRESW",
+        "Security Name": "Cresud S.A.C.I.F. y A.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 10:22:02 AM"
+    },
+    {
+        "Symbol": "CRDS",
+        "Security Name": "Crossroads Systems Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 10:26:56 AM"
+    },
+    {
+        "Symbol": "XENE",
+        "Security Name": "Xenon Pharmaceuticals Cm Sh",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 10:33:43 AM"
+    },
+    {
+        "Symbol": "VLYWW",
+        "Security Name": "Valley Natl Bancorp Warrants",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 10:40:22 AM"
+    },
+    {
+        "Symbol": "ICPT",
+        "Security Name": "Intercept Pharmaceuticals Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 10:45:31 AM"
+    },
+    {
+        "Symbol": "OHGI",
+        "Security Name": "One Horizon Group Common Stk",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 10:46:44 AM"
+    },
+    {
+        "Symbol": "CSIQ",
+        "Security Name": "Canadian Solar Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 11:28:58 AM"
+    },
+    {
+        "Symbol": "FLL",
+        "Security Name": "Full House Resorts Inc Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 11:31:56 AM"
+    },
+    {
+        "Symbol": "DSKX",
+        "Security Name": "DS Healthcare Group Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 11:55:32 AM"
+    },
+    {
+        "Symbol": "AETI",
+        "Security Name": "American Electric Technologies",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 12:15:29 PM"
+    },
+    {
+        "Symbol": "CBSTZ",
+        "Security Name": "Cubist Pharmctcls CVR",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 12:42:13 PM"
+    },
+    {
+        "Symbol": "DGII",
+        "Security Name": "Digi International Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 12:50:04 PM"
+    },
+    {
+        "Symbol": "ATRA",
+        "Security Name": "Atara Biotherapeutics Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 12:55:48 PM"
+    },
+    {
+        "Symbol": "RLJE",
+        "Security Name": "RLJ Entertainment Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 1:08:40 PM"
+    },
+    {
+        "Symbol": "BAXS",
+        "Security Name": "Baxano Surgical, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 1:21:35 PM"
+    },
+    {
+        "Symbol": "HPJ",
+        "Security Name": "Highpower International Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 1:42:19 PM"
+    },
+    {
+        "Symbol": "HIIQ",
+        "Security Name": "Health Insurance Innovations,",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 1:57:14 PM"
+    },
+    {
+        "Symbol": "LLEX",
+        "Security Name": "Lilis Energy, Inc. Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 2:11:07 PM"
+    },
+    {
+        "Symbol": "ATEA",
+        "Security Name": "Astea International Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 2:22:00 PM"
+    },
+    {
+        "Symbol": "GENE",
+        "Security Name": "Genetic Technologies Ltd ADS",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 2:33:06 PM"
+    },
+    {
+        "Symbol": "DPRX",
+        "Security Name": "Dipexium Pharmaceuticals Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 3:04:10 PM"
+    },
+    {
+        "Symbol": "GHDX",
+        "Security Name": "Genomic Health Health Inc",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 3:09:28 PM"
+    },
+    {
+        "Symbol": "DVCR",
+        "Security Name": "Diversicare Healthcare",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 3:40:34 PM"
+    },
+    {
+        "Symbol": "AKER",
+        "Security Name": "Akers Biosciences Inc Cmn",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 3:46:33 PM"
+    },
+    {
+        "Symbol": "CARV",
+        "Security Name": "Carver Bancorp Inc",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 3:56:32 PM"
+    },
+    {
+        "Symbol": "RADA",
+        "Security Name": "Rada Electronic Industries Ltd",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 3:57:11 PM"
+    },
+    {
+        "Symbol": "AMDA",
+        "Security Name": "Amedica Corporation",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 3:58:50 PM"
+    },
+    {
+        "Symbol": "MCOX",
+        "Security Name": "Mecox Lane Limited",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 3:59:52 PM"
+    },
+    {
+        "Symbol": "SRSC",
+        "Security Name": "Sears Canada Inc. Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "11\/12\/2014 3:59:55 PM"
+    },
+    {
+        "Symbol": "PTNT",
+        "Security Name": "Internet Patents Corp Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "11\/12\/2014 4:00:00 PM"
+    }
+]

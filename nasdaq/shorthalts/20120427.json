@@ -1,0 +1,710 @@
+[
+    {
+        "Symbol": "TSPT",
+        "Security Name": "Transcept Pharmaceuticals, Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "TQNT",
+        "Security Name": "TriQuint Semiconductor Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "AXTI",
+        "Security Name": "AXT Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "LTRX",
+        "Security Name": "Lantronix Inc",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "EROCW",
+        "Security Name": "Eagle Rock Energy Partners Wts",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "FURX",
+        "Security Name": "Furiex Pharmaceuticals",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "VDSI",
+        "Security Name": "VASCO Data Security Intl Inc",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "NIHD",
+        "Security Name": "NII Holdings, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "ACAD",
+        "Security Name": "ACADIA Pharmaceuticals Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "LEAP",
+        "Security Name": "Leap Wireless International",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "ITRI",
+        "Security Name": "Itron, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:01 AM"
+    },
+    {
+        "Symbol": "BVSN",
+        "Security Name": "BroadVision Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:10 AM"
+    },
+    {
+        "Symbol": "HURN",
+        "Security Name": "Huron Consulting Group Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:51 AM"
+    },
+    {
+        "Symbol": "ININ",
+        "Security Name": "Interactive Intelligence Grp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:30:53 AM"
+    },
+    {
+        "Symbol": "ISSC",
+        "Security Name": "Innovative Solutions & Support",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:33:00 AM"
+    },
+    {
+        "Symbol": "ZNWAL",
+        "Security Name": "Zion Oil & Gas Inc Warrant",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:34:04 AM"
+    },
+    {
+        "Symbol": "IIN",
+        "Security Name": "IntriCon Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:39:53 AM"
+    },
+    {
+        "Symbol": "CRAI",
+        "Security Name": "CRA International, Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:40:46 AM"
+    },
+    {
+        "Symbol": "GPRE",
+        "Security Name": "Green Plains Renewable Energy",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:40:59 AM"
+    },
+    {
+        "Symbol": "AKAM",
+        "Security Name": "Akamai Technologies, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:50:20 AM"
+    },
+    {
+        "Symbol": "SHIP",
+        "Security Name": "Seanergy Maritime Hld Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:52:43 AM"
+    },
+    {
+        "Symbol": "CYTK",
+        "Security Name": "Cytokinetics, Incorporated",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 9:58:06 AM"
+    },
+    {
+        "Symbol": "OPXAW",
+        "Security Name": "OpexaTherapeuticsInc",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 10:01:42 AM"
+    },
+    {
+        "Symbol": "CLFD",
+        "Security Name": "Clearfield, Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 10:06:19 AM"
+    },
+    {
+        "Symbol": "CBMX",
+        "Security Name": "CombiMatrix Corporation",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 10:06:23 AM"
+    },
+    {
+        "Symbol": "GTIM",
+        "Security Name": "Good Times Restaurants",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 10:08:50 AM"
+    },
+    {
+        "Symbol": "NOBH",
+        "Security Name": "Nobility Homes Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 10:09:17 AM"
+    },
+    {
+        "Symbol": "CHYR",
+        "Security Name": "Chyron Corp Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 10:09:22 AM"
+    },
+    {
+        "Symbol": "MTSN",
+        "Security Name": "Mattson Technology Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 10:13:29 AM"
+    },
+    {
+        "Symbol": "AMPL",
+        "Security Name": "Ampal-American Israel Cl A",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 10:17:20 AM"
+    },
+    {
+        "Symbol": "CROX",
+        "Security Name": "Crocs, Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 10:19:45 AM"
+    },
+    {
+        "Symbol": "WPCS",
+        "Security Name": "WPCS International Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 10:24:48 AM"
+    },
+    {
+        "Symbol": "RGEN",
+        "Security Name": "Repligen Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 10:30:00 AM"
+    },
+    {
+        "Symbol": "CLNT",
+        "Security Name": "Cleantech Solutions",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 10:41:10 AM"
+    },
+    {
+        "Symbol": "IDCC",
+        "Security Name": "InterDigital, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 10:44:53 AM"
+    },
+    {
+        "Symbol": "VIRC",
+        "Security Name": "Virco Manufacturing Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 11:20:01 AM"
+    },
+    {
+        "Symbol": "PTSX",
+        "Security Name": "Point.360 Common Stock",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 11:28:00 AM"
+    },
+    {
+        "Symbol": "SCSS",
+        "Security Name": "Select Comfort Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 11:31:30 AM"
+    },
+    {
+        "Symbol": "LZEN",
+        "Security Name": "Lizhan Environmental Ord Shr",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 11:35:51 AM"
+    },
+    {
+        "Symbol": "DAVE",
+        "Security Name": "Famous Dave's of America Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 11:39:13 AM"
+    },
+    {
+        "Symbol": "PZZI",
+        "Security Name": "Pizza Inn Holdings, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 11:50:41 AM"
+    },
+    {
+        "Symbol": "ONSM",
+        "Security Name": "Onstream Media Corporation",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 11:56:43 AM"
+    },
+    {
+        "Symbol": "AMTC",
+        "Security Name": "Ameritrans Capital Corporation",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 12:18:52 PM"
+    },
+    {
+        "Symbol": "INFN",
+        "Security Name": "Infinera Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 12:32:33 PM"
+    },
+    {
+        "Symbol": "APPY",
+        "Security Name": "AspenBio Pharma, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 1:09:20 PM"
+    },
+    {
+        "Symbol": "BIOD",
+        "Security Name": "Biodel Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 1:16:29 PM"
+    },
+    {
+        "Symbol": "GRMH",
+        "Security Name": "GrayMark Healthcare, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 1:20:42 PM"
+    },
+    {
+        "Symbol": "SMCG",
+        "Security Name": "Common Stock",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 2:03:32 PM"
+    },
+    {
+        "Symbol": "PACR",
+        "Security Name": "Pacer International Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 2:06:59 PM"
+    },
+    {
+        "Symbol": "MNEL",
+        "Security Name": "Mission NewEnergy Limited",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 2:12:25 PM"
+    },
+    {
+        "Symbol": "LNET",
+        "Security Name": "LodgeNet Interactive",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 2:36:20 PM"
+    },
+    {
+        "Symbol": "DLGC",
+        "Security Name": "Dialogic, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 3:13:57 PM"
+    },
+    {
+        "Symbol": "WEBM",
+        "Security Name": "WebMediaBrands Inc",
+        "Market Category": "R",
+        "Trigger Time": "4\/26\/2012 3:45:12 PM"
+    },
+    {
+        "Symbol": "TRMD",
+        "Security Name": "TORM A\/S ADS",
+        "Market Category": "Q",
+        "Trigger Time": "4\/26\/2012 4:00:00 PM"
+    },
+    {
+        "Symbol": "CTCT",
+        "Security Name": "Constant Contact, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "NANO",
+        "Security Name": "Nanometrics Incorporated",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "WSB",
+        "Security Name": "WSB Holdings, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "ABFS",
+        "Security Name": "Arkansas Best Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "POZN",
+        "Security Name": "POZEN Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "DECK",
+        "Security Name": "Deckers Outdoor Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "WSTG",
+        "Security Name": "Wayside Technology Group, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "MDRX",
+        "Security Name": "Allscripts Healthcare",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "CELL",
+        "Security Name": "Brightpoint Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "TSYS",
+        "Security Name": "TeleCommunication Systems Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "MXWL",
+        "Security Name": "Maxwell Technologies",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "DGII",
+        "Security Name": "Digi International Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:00 AM"
+    },
+    {
+        "Symbol": "PROJ",
+        "Security Name": "Deltek, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:04 AM"
+    },
+    {
+        "Symbol": "DSTI",
+        "Security Name": "DayStar Technologies Inc",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 9:30:08 AM"
+    },
+    {
+        "Symbol": "ITMN",
+        "Security Name": "InterMune, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:09 AM"
+    },
+    {
+        "Symbol": "CRESW",
+        "Security Name": "Cresud S.A.C.I.F. y A.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:10 AM"
+    },
+    {
+        "Symbol": "SIMO",
+        "Security Name": "Silicon Motion Technology Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:53 AM"
+    },
+    {
+        "Symbol": "LMOS",
+        "Security Name": "Lumos Networks Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:30:53 AM"
+    },
+    {
+        "Symbol": "VPRT",
+        "Security Name": "Vistaprint N.V.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:31:18 AM"
+    },
+    {
+        "Symbol": "HMSY",
+        "Security Name": "HMS Holdings Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:31:23 AM"
+    },
+    {
+        "Symbol": "TESS",
+        "Security Name": "TESSCO Tech",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:37:29 AM"
+    },
+    {
+        "Symbol": "SOCB",
+        "Security Name": "Southcoast Financial Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:44:11 AM"
+    },
+    {
+        "Symbol": "STX",
+        "Security Name": "Seagate Technology Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:44:18 AM"
+    },
+    {
+        "Symbol": "AMCC",
+        "Security Name": "Applied Micro Circuits",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:45:35 AM"
+    },
+    {
+        "Symbol": "CAMP",
+        "Security Name": "CalAmp Corp",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:46:58 AM"
+    },
+    {
+        "Symbol": "CYBI",
+        "Security Name": "Cybex International",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 9:49:27 AM"
+    },
+    {
+        "Symbol": "TPCG",
+        "Security Name": "TPC Group, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 9:59:06 AM"
+    },
+    {
+        "Symbol": "BEST",
+        "Security Name": "Shiner International, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 9:59:49 AM"
+    },
+    {
+        "Symbol": "REED",
+        "Security Name": "Reeds, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:00:29 AM"
+    },
+    {
+        "Symbol": "NFEC",
+        "Security Name": "NF Energy Saving Corporation",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:00:52 AM"
+    },
+    {
+        "Symbol": "INFA",
+        "Security Name": "Informatica Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 10:07:09 AM"
+    },
+    {
+        "Symbol": "SINO",
+        "Security Name": "Sino-Global Shipping America,",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:08:13 AM"
+    },
+    {
+        "Symbol": "OPXA",
+        "Security Name": "Opexa Therapeutics, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:10:40 AM"
+    },
+    {
+        "Symbol": "DMRC",
+        "Security Name": "Digimarc Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 10:28:42 AM"
+    },
+    {
+        "Symbol": "GALE",
+        "Security Name": "Galena Biopharma, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:29:42 AM"
+    },
+    {
+        "Symbol": "RCON",
+        "Security Name": "Recon Technology, Ltd.",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:33:00 AM"
+    },
+    {
+        "Symbol": "OPXAW",
+        "Security Name": "OpexaTherapeuticsInc",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:36:39 AM"
+    },
+    {
+        "Symbol": "LZEN",
+        "Security Name": "Lizhan Environmental Ord Shr",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:38:06 AM"
+    },
+    {
+        "Symbol": "CFBK",
+        "Security Name": "Central Federal Corporation",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 10:48:56 AM"
+    },
+    {
+        "Symbol": "SCEI",
+        "Security Name": "Sino Clean Energy Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 11:05:52 AM"
+    },
+    {
+        "Symbol": "VLYWW",
+        "Security Name": "Valley Natl Bancorp Warrants",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 11:06:52 AM"
+    },
+    {
+        "Symbol": "PTIX",
+        "Security Name": "Performance Technologies",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 11:16:54 AM"
+    },
+    {
+        "Symbol": "SONS",
+        "Security Name": "Sonus Networks Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 11:20:16 AM"
+    },
+    {
+        "Symbol": "ALTI",
+        "Security Name": "Altair Intl Inc",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 11:55:26 AM"
+    },
+    {
+        "Symbol": "WUHN",
+        "Security Name": "Wuhan General Group Inc",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 12:23:26 PM"
+    },
+    {
+        "Symbol": "EML",
+        "Security Name": "Eastern Company (The) Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 12:32:11 PM"
+    },
+    {
+        "Symbol": "FMFC",
+        "Security Name": "First M & F Corporation",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 12:40:25 PM"
+    },
+    {
+        "Symbol": "DAIO",
+        "Security Name": "Data I\/O Corporation",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 12:43:35 PM"
+    },
+    {
+        "Symbol": "HBHC",
+        "Security Name": "Hancock Holding Company",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 1:02:13 PM"
+    },
+    {
+        "Symbol": "HGSH",
+        "Security Name": "China HGS Real Estate Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 1:04:34 PM"
+    },
+    {
+        "Symbol": "PEIX",
+        "Security Name": "Pacific Ethanol",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 1:19:07 PM"
+    },
+    {
+        "Symbol": "BWOW",
+        "Security Name": "Wowjoint Holdings Limited Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 1:30:01 PM"
+    },
+    {
+        "Symbol": "ZNWAZ",
+        "Security Name": "ZION Oil and Gas Warrants",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 1:38:20 PM"
+    },
+    {
+        "Symbol": "WLDN",
+        "Security Name": "Willdan Group, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 1:48:32 PM"
+    },
+    {
+        "Symbol": "SAPX",
+        "Security Name": "Seven Arts Entertainment, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 2:36:12 PM"
+    },
+    {
+        "Symbol": "DYII",
+        "Security Name": "Dynacq Healthcare Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 3:09:51 PM"
+    },
+    {
+        "Symbol": "FONR",
+        "Security Name": "Fonar Corporation",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 3:14:19 PM"
+    },
+    {
+        "Symbol": "ANTH",
+        "Security Name": "Anthera Pharmaceuticals, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 3:34:14 PM"
+    },
+    {
+        "Symbol": "GTIM",
+        "Security Name": "Good Times Restaurants",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 3:40:22 PM"
+    },
+    {
+        "Symbol": "ABIO",
+        "Security Name": "ARCA biopharma, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 3:45:08 PM"
+    },
+    {
+        "Symbol": "DXYN",
+        "Security Name": "The Dixie Group Inc",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 3:54:41 PM"
+    },
+    {
+        "Symbol": "ZNGA",
+        "Security Name": "Zynga Inc. Class A Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 3:56:27 PM"
+    },
+    {
+        "Symbol": "ULGX",
+        "Security Name": "Urologix Inc",
+        "Market Category": "R",
+        "Trigger Time": "4\/27\/2012 3:58:15 PM"
+    },
+    {
+        "Symbol": "BWOWW",
+        "Security Name": "Wowjoint Holdings Ltd Wt",
+        "Market Category": "Q",
+        "Trigger Time": "4\/27\/2012 3:59:35 PM"
+    }
+]

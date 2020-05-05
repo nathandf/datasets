@@ -1,0 +1,806 @@
+[
+    {
+        "Symbol": "DTSS",
+        "Security Name": "Datasea Inc. CS",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:30:00 AM"
+    },
+    {
+        "Symbol": "CYOU",
+        "Security Name": "Changyou.com Limited",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:30:00 AM"
+    },
+    {
+        "Symbol": "MNGA",
+        "Security Name": "MagneGas Applied Tch Sltns Cm",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:30:00 AM"
+    },
+    {
+        "Symbol": "EPAY",
+        "Security Name": "Bottomline Technologies Inc",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:30:00 AM"
+    },
+    {
+        "Symbol": "LPTX",
+        "Security Name": "Leap Therapeutics Inc Cmn Stk ",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:30:00 AM"
+    },
+    {
+        "Symbol": "CTIC",
+        "Security Name": "CTI BioPharma Corp.",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:30:00 AM"
+    },
+    {
+        "Symbol": "NNDM",
+        "Security Name": "Nano Dimension Ltd ADS",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:30:00 AM"
+    },
+    {
+        "Symbol": "WETF",
+        "Security Name": "WisdomTree Investments Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:30:01 AM"
+    },
+    {
+        "Symbol": "CORT",
+        "Security Name": "Corcept Therapeutics",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:30:01 AM"
+    },
+    {
+        "Symbol": "HJLI",
+        "Security Name": "Hancock Jaffe Laboratories Cmn",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:30:02 AM"
+    },
+    {
+        "Symbol": "GENC",
+        "Security Name": "Gencor Industries Inc",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:30:05 AM"
+    },
+    {
+        "Symbol": "ONCS",
+        "Security Name": "OncoSec Medical Inc Cmn",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:30:52 AM"
+    },
+    {
+        "Symbol": "EVER",
+        "Security Name": "EverQuote, Inc. Cl A Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:31:03 AM"
+    },
+    {
+        "Symbol": "MRLN",
+        "Security Name": "Marlin Business Services Corp.",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:32:18 AM"
+    },
+    {
+        "Symbol": "NVTR",
+        "Security Name": "Nuvectra Corp Cm Stk",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:32:36 AM"
+    },
+    {
+        "Symbol": "GEMP",
+        "Security Name": "Gemphire Therapeutics CM",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:34:18 AM"
+    },
+    {
+        "Symbol": "PETZ",
+        "Security Name": "TDH Holdings, Inc. Cmn Shrs",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:35:29 AM"
+    },
+    {
+        "Symbol": "HSGX",
+        "Security Name": "Histogenics Corp Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:40:41 AM"
+    },
+    {
+        "Symbol": "ROSEU",
+        "Security Name": "Rosehill Resources Inc. Ut",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:41:10 AM"
+    },
+    {
+        "Symbol": "CYRXW",
+        "Security Name": "CryoPort, Inc. Warrants",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:41:43 AM"
+    },
+    {
+        "Symbol": "KTOV",
+        "Security Name": "Kitov Pharma Ltd. ADS",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:42:20 AM"
+    },
+    {
+        "Symbol": "OPK",
+        "Security Name": "OPKO Health, Inc. Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 9:45:13 AM"
+    },
+    {
+        "Symbol": "GTXI",
+        "Security Name": "GTx, Inc",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 9:48:54 AM"
+    },
+    {
+        "Symbol": "TRVN",
+        "Security Name": "Trevena, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 10:02:28 AM"
+    },
+    {
+        "Symbol": "MATW",
+        "Security Name": "Matthews International Corp.",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 10:03:16 AM"
+    },
+    {
+        "Symbol": "RCON",
+        "Security Name": "Recon Technology, Ltd.",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 10:04:11 AM"
+    },
+    {
+        "Symbol": "APOP",
+        "Security Name": "Cellect Biotechnology Ltd. ADR",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 10:07:30 AM"
+    },
+    {
+        "Symbol": "FAMI",
+        "Security Name": "Farmmi, Inc. Ordinary Shs",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 10:14:13 AM"
+    },
+    {
+        "Symbol": "IRDMB",
+        "Security Name": "Iridium 6.75% Sr B Cum Cnv Pd",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 10:27:14 AM"
+    },
+    {
+        "Symbol": "TRMD",
+        "Security Name": "TORM plc CLACOM",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 10:41:34 AM"
+    },
+    {
+        "Symbol": "GCVRZ",
+        "Security Name": "Sanofi CVR",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 10:54:08 AM"
+    },
+    {
+        "Symbol": "CBLI",
+        "Security Name": "Cleveland BioLabs Inc",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 10:57:54 AM"
+    },
+    {
+        "Symbol": "ATTU",
+        "Security Name": "Attunity Ltd",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 10:59:34 AM"
+    },
+    {
+        "Symbol": "ROSEW",
+        "Security Name": "Rosehill Resources Inc. Wts",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 10:59:37 AM"
+    },
+    {
+        "Symbol": "SCYX",
+        "Security Name": "SCYNEXIS Inc Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 11:04:04 AM"
+    },
+    {
+        "Symbol": "PHCF",
+        "Security Name": "Puhui Wealth Inv Mgmt Ord ",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 11:09:02 AM"
+    },
+    {
+        "Symbol": "CNACW",
+        "Security Name": "Constellation Alpha Capital Wt",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 11:12:47 AM"
+    },
+    {
+        "Symbol": "WORX",
+        "Security Name": "SCWorx Corp.",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 11:16:07 AM"
+    },
+    {
+        "Symbol": "WMGIZ",
+        "Security Name": "Wright Medical Group N.V. CVR",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 11:22:28 AM"
+    },
+    {
+        "Symbol": "CHEK",
+        "Security Name": "Check-Cap Ltd. Ord",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 11:30:28 AM"
+    },
+    {
+        "Symbol": "SRDX",
+        "Security Name": "Surmodics Inc",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 11:32:59 AM"
+    },
+    {
+        "Symbol": "TKKSR",
+        "Security Name": "TKK Symphony Acquisition RT",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 11:38:59 AM"
+    },
+    {
+        "Symbol": "AVEO",
+        "Security Name": "AVEO Pharmaceuticals, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 11:49:01 AM"
+    },
+    {
+        "Symbol": "ALGRR",
+        "Security Name": "Allegro Merger Corp. Right",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 11:51:52 AM"
+    },
+    {
+        "Symbol": "PRAN",
+        "Security Name": "Prana Biotechnology Ltd. ADS",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 12:12:42 PM"
+    },
+    {
+        "Symbol": "XBIT",
+        "Security Name": "XBiotech Inc. Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 12:28:08 PM"
+    },
+    {
+        "Symbol": "MINI",
+        "Security Name": "Mobile Mini Inc",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 12:37:14 PM"
+    },
+    {
+        "Symbol": "APDNW",
+        "Security Name": "Applied DNA Scien Warrant",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 12:37:20 PM"
+    },
+    {
+        "Symbol": "DVCR",
+        "Security Name": "Diversicare Healthcare",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 12:50:38 PM"
+    },
+    {
+        "Symbol": "AMRHW",
+        "Security Name": "Ameri Holdings, Inc. Wt",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 12:52:13 PM"
+    },
+    {
+        "Symbol": "BNSO",
+        "Security Name": "Bonso Electronics Int'l",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 12:55:47 PM"
+    },
+    {
+        "Symbol": "FTD",
+        "Security Name": "FTD Companies Inc",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 12:59:38 PM"
+    },
+    {
+        "Symbol": "CYCCP",
+        "Security Name": "Cyclacel Pharmaceuticals Prefe",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 1:31:09 PM"
+    },
+    {
+        "Symbol": "OHRP",
+        "Security Name": "Ohr Pharmaceutical Inc Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 1:31:28 PM"
+    },
+    {
+        "Symbol": "KBLMW",
+        "Security Name": "KBL Merger Corp. IV WTS",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 1:45:19 PM"
+    },
+    {
+        "Symbol": "XSPA",
+        "Security Name": "XpresSpa Group, Inc. ",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 2:09:49 PM"
+    },
+    {
+        "Symbol": "REDU",
+        "Security Name": "RISE Education Cayman Ltd",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 2:16:46 PM"
+    },
+    {
+        "Symbol": "LMFAW",
+        "Security Name": "LM Funding America WT",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 2:37:35 PM"
+    },
+    {
+        "Symbol": "SXTC",
+        "Security Name": "China SXT Pharmaceuticals Ords",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 3:08:47 PM"
+    },
+    {
+        "Symbol": "LWAY",
+        "Security Name": "Lifeway Foods Inc",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 3:13:01 PM"
+    },
+    {
+        "Symbol": "CSIQ",
+        "Security Name": "Canadian Solar Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "2\/1\/2019 3:13:24 PM"
+    },
+    {
+        "Symbol": "NDRAW",
+        "Security Name": "ENDRA Life Sciences Inc. WT",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 3:15:24 PM"
+    },
+    {
+        "Symbol": "FPAYW",
+        "Security Name": "FlexShopper, Inc. Wt",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 3:25:01 PM"
+    },
+    {
+        "Symbol": "KTOVW",
+        "Security Name": "Kitov Pharma Ltd. Wts",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 3:25:55 PM"
+    },
+    {
+        "Symbol": "NXTDW",
+        "Security Name": "Nxt-ID, Inc. Warrant",
+        "Market Category": "R",
+        "Trigger Time": "2\/1\/2019 3:58:39 PM"
+    },
+    {
+        "Symbol": "TMSR",
+        "Security Name": "TMSR Holding Co Ltd Cmn",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:30:00 AM"
+    },
+    {
+        "Symbol": "CHEK",
+        "Security Name": "Check-Cap Ltd. Ord",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:30:01 AM"
+    },
+    {
+        "Symbol": "PDVW",
+        "Security Name": "pdvWireless, Inc. Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:30:03 AM"
+    },
+    {
+        "Symbol": "MGNX",
+        "Security Name": "MacroGenics, Inc. Cmn Stk",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 9:30:06 AM"
+    },
+    {
+        "Symbol": "SOLOW",
+        "Security Name": "Electrameccanica Vehicles Wts",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:30:10 AM"
+    },
+    {
+        "Symbol": "PEBK",
+        "Security Name": "Peoples Bancorp No. Carolina",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 9:30:20 AM"
+    },
+    {
+        "Symbol": "HSGX",
+        "Security Name": "Histogenics Corp Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:30:43 AM"
+    },
+    {
+        "Symbol": "JOUT",
+        "Security Name": "Johnson Outdoors Inc",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 9:35:55 AM"
+    },
+    {
+        "Symbol": "ADILW",
+        "Security Name": "Adial Pharmaceuticals Warrant",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:36:19 AM"
+    },
+    {
+        "Symbol": "ORGO",
+        "Security Name": "Organogenesis ",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:37:06 AM"
+    },
+    {
+        "Symbol": "BNGOW",
+        "Security Name": "Bionano Genomics, Inc.WT",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:37:23 AM"
+    },
+    {
+        "Symbol": "MTEM",
+        "Security Name": "Molecular Templates, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:37:39 AM"
+    },
+    {
+        "Symbol": "WPRT",
+        "Security Name": "Westport Fuel Systems Inc",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 9:39:40 AM"
+    },
+    {
+        "Symbol": "OHRP",
+        "Security Name": "Ohr Pharmaceutical Inc Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:39:41 AM"
+    },
+    {
+        "Symbol": "YRIV",
+        "Security Name": "Yangtze Riv Pt & Log Ltd",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 9:42:27 AM"
+    },
+    {
+        "Symbol": "NVUS",
+        "Security Name": "Novus Therapeutics, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:42:41 AM"
+    },
+    {
+        "Symbol": "ADIL",
+        "Security Name": "Adial Pharmaceuticals, Inc. Cm",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:44:04 AM"
+    },
+    {
+        "Symbol": "CHEKZ",
+        "Security Name": "Check-Cap Ltd. Sr C Wt",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:48:22 AM"
+    },
+    {
+        "Symbol": "CYTX",
+        "Security Name": "Cytori Therapeutics Inc.",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:51:13 AM"
+    },
+    {
+        "Symbol": "FTACW",
+        "Security Name": "FinTech Acquisition Corp. WT",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:53:20 AM"
+    },
+    {
+        "Symbol": "CPRX",
+        "Security Name": "Catalyst Pharmaceuticals, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 9:53:41 AM"
+    },
+    {
+        "Symbol": "ICLK",
+        "Security Name": "iClick Interactive Asia Gp ADS",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 9:58:35 AM"
+    },
+    {
+        "Symbol": "SXTC",
+        "Security Name": "China SXT Pharmaceuticals Ords",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:04:55 AM"
+    },
+    {
+        "Symbol": "SNOAW",
+        "Security Name": "Sonoma Pharma Wts",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:07:10 AM"
+    },
+    {
+        "Symbol": "IDSA",
+        "Security Name": "Industrial Services of America",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:12:23 AM"
+    },
+    {
+        "Symbol": "ARCE",
+        "Security Name": "Arco Platform Limited Cl A Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 10:14:50 AM"
+    },
+    {
+        "Symbol": "PRPO",
+        "Security Name": "Precipio, Inc. Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:15:38 AM"
+    },
+    {
+        "Symbol": "USAU",
+        "Security Name": "U.S. Gold Corp.",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:17:29 AM"
+    },
+    {
+        "Symbol": "OSN",
+        "Security Name": "Ossen Innovation Co Ltd",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:19:56 AM"
+    },
+    {
+        "Symbol": "PHUN",
+        "Security Name": "Phunware, Inc. Common Stock",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:36:38 AM"
+    },
+    {
+        "Symbol": "HOVNP",
+        "Security Name": "Hovanian Enterprises Inc. Dep.",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 10:39:21 AM"
+    },
+    {
+        "Symbol": "NXTDW",
+        "Security Name": "Nxt-ID, Inc. Warrant",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:41:58 AM"
+    },
+    {
+        "Symbol": "MPVD",
+        "Security Name": "Mountain Province Diamd Cmn",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 10:44:57 AM"
+    },
+    {
+        "Symbol": "FBIO",
+        "Security Name": "Fortress Biotech, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:48:38 AM"
+    },
+    {
+        "Symbol": "OASM",
+        "Security Name": "Oasmia Pharmaceutical AB ADS",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 10:57:59 AM"
+    },
+    {
+        "Symbol": "GTYHW",
+        "Security Name": "GTY Technology Hlds Wts",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 11:31:13 AM"
+    },
+    {
+        "Symbol": "STNLW",
+        "Security Name": "Sentinel Energy Services WT",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 11:44:18 AM"
+    },
+    {
+        "Symbol": "WMGIZ",
+        "Security Name": "Wright Medical Group N.V. CVR",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 11:53:11 AM"
+    },
+    {
+        "Symbol": "AMSC",
+        "Security Name": "American Superconductor Corp",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 11:56:20 AM"
+    },
+    {
+        "Symbol": "HYRE",
+        "Security Name": "HyreCar Inc. Cm St",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 11:59:38 AM"
+    },
+    {
+        "Symbol": "WORX",
+        "Security Name": "SCWorx Corp.",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 12:01:15 PM"
+    },
+    {
+        "Symbol": "PAVMZ",
+        "Security Name": "PAVmed Inc. Wt Series Z",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 12:09:02 PM"
+    },
+    {
+        "Symbol": "CYRXW",
+        "Security Name": "CryoPort, Inc. Warrants",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 12:17:19 PM"
+    },
+    {
+        "Symbol": "MARPS",
+        "Security Name": "Marine Peteroleum Trust Units",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 12:36:00 PM"
+    },
+    {
+        "Symbol": "ALGRR",
+        "Security Name": "Allegro Merger Corp. Right",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 12:49:38 PM"
+    },
+    {
+        "Symbol": "KBLMR",
+        "Security Name": "KBL Merger Corp. IV RTS",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 1:14:55 PM"
+    },
+    {
+        "Symbol": "BCACW",
+        "Security Name": "Bison Cap Acquistion Corp Wt",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 1:21:50 PM"
+    },
+    {
+        "Symbol": "XTLB",
+        "Security Name": "XTL Biopharmaceuticals Ltd ADS",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 1:24:17 PM"
+    },
+    {
+        "Symbol": "SGYP",
+        "Security Name": "Synergy Pharmaceuticals, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 1:26:05 PM"
+    },
+    {
+        "Symbol": "LKCO",
+        "Security Name": "Luokung Technology Ord Shs",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 1:39:30 PM"
+    },
+    {
+        "Symbol": "DGLY",
+        "Security Name": "Digital Ally, Inc. Cmn",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 1:45:25 PM"
+    },
+    {
+        "Symbol": "BKYI",
+        "Security Name": "BIO-key International Cm St",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 1:46:09 PM"
+    },
+    {
+        "Symbol": "WRLSR",
+        "Security Name": "Pensare Acquisition Corp Right",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 1:52:43 PM"
+    },
+    {
+        "Symbol": "ESTRW",
+        "Security Name": "Estre Ambiental, Inc.",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 1:53:28 PM"
+    },
+    {
+        "Symbol": "RESN",
+        "Security Name": "Resonant Inc. Cmn Stk",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 1:54:10 PM"
+    },
+    {
+        "Symbol": "SEEL",
+        "Security Name": "Seelos Therapeutics, Inc.",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 2:17:36 PM"
+    },
+    {
+        "Symbol": "VEACW",
+        "Security Name": "Vantage Energy Acquisition WT",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 2:51:15 PM"
+    },
+    {
+        "Symbol": "CTXRW",
+        "Security Name": "Citius Pharmaceuticals Wt",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:10:27 PM"
+    },
+    {
+        "Symbol": "CNACW",
+        "Security Name": "Constellation Alpha Capital Wt",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:14:31 PM"
+    },
+    {
+        "Symbol": "OPESW",
+        "Security Name": "Opes Acquisition WT",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:16:03 PM"
+    },
+    {
+        "Symbol": "LIVX",
+        "Security Name": "LiveXLive Media, Inc. Cm St",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:23:40 PM"
+    },
+    {
+        "Symbol": "LPTX",
+        "Security Name": "Leap Therapeutics Inc Cmn Stk ",
+        "Market Category": "Q",
+        "Trigger Time": "2\/4\/2019 3:24:52 PM"
+    },
+    {
+        "Symbol": "AWSM",
+        "Security Name": "Cool Holdings Inc. Common Stk",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:41:54 PM"
+    },
+    {
+        "Symbol": "ONCS",
+        "Security Name": "OncoSec Medical Inc Cmn",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:45:09 PM"
+    },
+    {
+        "Symbol": "BRACW",
+        "Security Name": "Black Ridge Acq. Corp. WRNT",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:46:58 PM"
+    },
+    {
+        "Symbol": "EYEGW",
+        "Security Name": "Eyegate Pharmaceuticals Wts",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:52:21 PM"
+    },
+    {
+        "Symbol": "FLMNW",
+        "Security Name": "Falcon Minerals Cp Wt",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:52:30 PM"
+    },
+    {
+        "Symbol": "OPGNW",
+        "Security Name": "OpGen, Inc. Warrant",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 3:53:42 PM"
+    },
+    {
+        "Symbol": "IPDN",
+        "Security Name": "Professional Diversity Network",
+        "Market Category": "R",
+        "Trigger Time": "2\/4\/2019 4:00:00 PM"
+    }
+]
